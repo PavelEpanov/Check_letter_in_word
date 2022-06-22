@@ -1,0 +1,1 @@
+Check letter in variable
